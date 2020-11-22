@@ -1,1 +1,1 @@
-# cron-scheduled-db-backup
+# cron-scheduled-encrypted-db-backup
