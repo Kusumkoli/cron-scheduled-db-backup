@@ -1,0 +1,20 @@
+{
+  "name": "mongo_schedule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "node-cron": "^2.0.3"
+  },
+  "devDependencies": {
+    "ember-data": "^3.12.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
